@@ -3,11 +3,11 @@ layout: default
 ---
 
 
-![Octocat](ir.jpg)
+
 
 # About Me
 
-Am currently pursuing my M.S. under the supervision of [Dr. Chester Rebeiro](http://www.cse.iitm.ac.in/~chester/) in the Department of Computer Science and Engineering (C.S.E), Indian Institute of Technology (IIT) Madras. .  My primary research area is Side Channel Attack on Cryptographic Algorithms by injecting Faults.  Currently I am working on designing a framework to synthesize a hardware or software implementation of block cipher which are resistant to Differential Fault Attack.  
+Am currently pursuing my M.S. under the supervision of [Dr. Chester Rebeiro](http://www.cse.iitm.ac.in/~chester/) in the Department of Computer Science and Engineering (C.S.E), Indian Institute of Technology (IIT) Madras.  My primary research area is Side Channel Attack on Cryptographic Algorithms by injecting Faults.  Currently I am working on designing a framework to synthesize a hardware or software implementation of block cipher which are resistant to Differential Fault Attack.  
 
 # Education
 
@@ -24,4 +24,5 @@ Am currently pursuing my M.S. under the supervision of [Dr. Chester Rebeiro](htt
 # Contact
 
 indrroy [at] cse [dot] iitm [dot] ac [dot] in
+indrani.roy9999 [at] gmail[dot]com 
 
