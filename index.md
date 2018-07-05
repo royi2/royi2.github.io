@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-![](ir.jpg)
+![Octocat](ir.jpg)
 
 # About Me
 
