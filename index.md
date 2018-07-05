@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-
+![](ir.jpg)
 
 # About Me
 
