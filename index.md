@@ -6,7 +6,7 @@ layout: default
 
 # About Me
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Am currently pursuing my M.S. at IIT Madras.  My primary research area is Side Channel Attack on Cryptographic Algorithms by injecting Faults. 
 
 ## Header 2
 
