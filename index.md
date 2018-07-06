@@ -24,5 +24,6 @@ I am currently pursuing my M.S. under the supervision of [Dr. Chester Rebeiro](h
 # Contact
 
 indrroy [at] cse [dot] iitm [dot] ac [dot] in
+```
 indrani.roy9999 [at] gmail[dot]com 
 
